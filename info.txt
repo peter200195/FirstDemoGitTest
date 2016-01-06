@@ -1,4 +1,9 @@
 Hi! Everybody
 Hey a new change
 Let's see
+<<<<<<< HEAD
 The connection has been made
+=======
+Make connection between the info.txt and the oneMore.txt
+All look good
+>>>>>>> 7e68dcd3a571e2726cfac450ff001ec641e5e012
